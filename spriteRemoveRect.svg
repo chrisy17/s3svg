@@ -606,38 +606,38 @@
 
       <g id="Pixel-Grid" transform="translate(250 250)">
         <g id="Pixel-Grid-2" data-name="Pixel-Grid" opacity="0">
-          <rect id="pixel-grid-3" data-name="pixel-grid" width="20" height="500" fill="#ededed"/>
-          <rect id="pixel-grid-4" data-name="pixel-grid" width="20" height="500" transform="translate(160)" fill="#ededed"/>
-          <rect id="pixel-grid-5" data-name="pixel-grid" width="20" height="500" transform="translate(320)" fill="#ededed"/>
-          <rect id="pixel-grid-6" data-name="pixel-grid" width="20" height="500" transform="translate(40)" fill="#ededed"/>
-          <rect id="pixel-grid-7" data-name="pixel-grid" width="20" height="500" transform="translate(200)" fill="#ededed"/>
-          <rect id="pixel-grid-8" data-name="pixel-grid" width="20" height="500" transform="translate(360)" fill="#ededed"/>
-          <rect id="pixel-grid-9" data-name="pixel-grid" width="20" height="500" transform="translate(80)" fill="#ededed"/>
-          <rect id="pixel-grid-10" data-name="pixel-grid" width="20" height="500" transform="translate(240)" fill="#ededed"/>
-          <rect id="pixel-grid-11" data-name="pixel-grid" width="20" height="500" transform="translate(400)" fill="#ededed"/>
-          <rect id="pixel-grid-12" data-name="pixel-grid" width="20" height="500" transform="translate(120)" fill="#ededed"/>
-          <rect id="pixel-grid-13" data-name="pixel-grid" width="20" height="500" transform="translate(280)" fill="#ededed"/>
-          <rect id="pixel-grid-14" data-name="pixel-grid" width="20" height="500" transform="translate(440)" fill="#ededed"/>
-          <rect id="pixel-grid-15" data-name="pixel-grid" width="20" height="500" transform="translate(480)" fill="#ededed"/>
-          <rect id="pixel-grid-16" data-name="pixel-grid" width="500" height="20" fill="#ededed"/>
-          <rect id="pixel-grid-17" data-name="pixel-grid" width="500" height="20" transform="translate(0 160)" fill="#ededed"/>
-          <rect id="pixel-grid-18" data-name="pixel-grid" width="500" height="20" transform="translate(0 320)" fill="#ededed"/>
-          <rect id="pixel-grid-19" data-name="pixel-grid" width="500" height="20" transform="translate(0 40)" fill="#ededed"/>
-          <rect id="pixel-grid-20" data-name="pixel-grid" width="500" height="20" transform="translate(0 200)" fill="#ededed"/>
-          <rect id="pixel-grid-21" data-name="pixel-grid" width="500" height="20" transform="translate(0 360)" fill="#ededed"/>
-          <rect id="pixel-grid-22" data-name="pixel-grid" width="500" height="20" transform="translate(0 80)" fill="#ededed"/>
-          <rect id="pixel-grid-23" data-name="pixel-grid" width="500" height="20" transform="translate(0 240)" fill="#ededed"/>
-          <rect id="pixel-grid-24" data-name="pixel-grid" width="500" height="20" transform="translate(0 400)" fill="#ededed"/>
-          <rect id="pixel-grid-25" data-name="pixel-grid" width="500" height="20" transform="translate(0 120)" fill="#ededed"/>
-          <rect id="pixel-grid-26" data-name="pixel-grid" width="500" height="20" transform="translate(0 280)" fill="#ededed"/>
-          <rect id="pixel-grid-27" data-name="pixel-grid" width="500" height="20" transform="translate(0 440)" fill="#ededed"/>
-          <rect id="pixel-grid-28" data-name="pixel-grid" width="500" height="20" transform="translate(0 480)" fill="#ededed"/>
+          <rect id="pixel-grid-3" data-name="pixel-grid" width="20" height="500" fill="#fff"/>
+          <rect id="pixel-grid-4" data-name="pixel-grid" width="20" height="500" transform="translate(160)" fill="#fff"/>
+          <rect id="pixel-grid-5" data-name="pixel-grid" width="20" height="500" transform="translate(320)" fill="#fff"/>
+          <rect id="pixel-grid-6" data-name="pixel-grid" width="20" height="500" transform="translate(40)" fill="#fff"/>
+          <rect id="pixel-grid-7" data-name="pixel-grid" width="20" height="500" transform="translate(200)" fill="#fff"/>
+          <rect id="pixel-grid-8" data-name="pixel-grid" width="20" height="500" transform="translate(360)" fill="#fff"/>
+          <rect id="pixel-grid-9" data-name="pixel-grid" width="20" height="500" transform="translate(80)" fill="#fff"/>
+          <rect id="pixel-grid-10" data-name="pixel-grid" width="20" height="500" transform="translate(240)" fill="#fff"/>
+          <rect id="pixel-grid-11" data-name="pixel-grid" width="20" height="500" transform="translate(400)" fill="#fff"/>
+          <rect id="pixel-grid-12" data-name="pixel-grid" width="20" height="500" transform="translate(120)" fill="#fff"/>
+          <rect id="pixel-grid-13" data-name="pixel-grid" width="20" height="500" transform="translate(280)" fill="#fff"/>
+          <rect id="pixel-grid-14" data-name="pixel-grid" width="20" height="500" transform="translate(440)" fill="#fff"/>
+          <rect id="pixel-grid-15" data-name="pixel-grid" width="20" height="500" transform="translate(480)" fill="#fff"/>
+          <rect id="pixel-grid-16" data-name="pixel-grid" width="500" height="20" fill="#fff"/>
+          <rect id="pixel-grid-17" data-name="pixel-grid" width="500" height="20" transform="translate(0 160)" fill="#fff"/>
+          <rect id="pixel-grid-18" data-name="pixel-grid" width="500" height="20" transform="translate(0 320)" fill="#fff"/>
+          <rect id="pixel-grid-19" data-name="pixel-grid" width="500" height="20" transform="translate(0 40)" fill="#fff"/>
+          <rect id="pixel-grid-20" data-name="pixel-grid" width="500" height="20" transform="translate(0 200)" fill="#fff"/>
+          <rect id="pixel-grid-21" data-name="pixel-grid" width="500" height="20" transform="translate(0 360)" fill="#fff"/>
+          <rect id="pixel-grid-22" data-name="pixel-grid" width="500" height="20" transform="translate(0 80)" fill="#fff"/>
+          <rect id="pixel-grid-23" data-name="pixel-grid" width="500" height="20" transform="translate(0 240)" fill="#fff"/>
+          <rect id="pixel-grid-24" data-name="pixel-grid" width="500" height="20" transform="translate(0 400)" fill="#fff"/>
+          <rect id="pixel-grid-25" data-name="pixel-grid" width="500" height="20" transform="translate(0 120)" fill="#fff"/>
+          <rect id="pixel-grid-26" data-name="pixel-grid" width="500" height="20" transform="translate(0 280)" fill="#fff"/>
+          <rect id="pixel-grid-27" data-name="pixel-grid" width="500" height="20" transform="translate(0 440)" fill="#fff"/>
+          <rect id="pixel-grid-28" data-name="pixel-grid" width="500" height="20" transform="translate(0 480)" fill="#fff"/>
         </g>
       </g>
       <rect id="_bounds" width="1000" height="1000" fill="none"/>
       <path id="AMU-2" data-name="AMU"
             d="M433.551,161.214a95,95,0,0,1-14.8-1.106,72.037,72.037,0,0,1-13.116-3.318,59.625,59.625,0,0,1-11.432-5.531,56.164,56.164,0,0,1-17.54-17.426A58.916,58.916,0,0,1,371.1,122.48a70.763,70.763,0,0,1-3.339-13.023,93.068,93.068,0,0,1-1.113-14.693V0h18.267V94.765a61.984,61.984,0,0,0,3.254,20.78,42.71,42.71,0,0,0,9.762,15.756,41.887,41.887,0,0,0,15.414,9.933,63.5,63.5,0,0,0,40.389.029,41.437,41.437,0,0,0,15.327-9.848,42.2,42.2,0,0,0,9.677-15.728,63.116,63.116,0,0,0,3.226-20.922V0H500V94.765a94.236,94.236,0,0,1-1.1,14.693,71.5,71.5,0,0,1-3.3,13.023,59.229,59.229,0,0,1-5.495,11.353,55.861,55.861,0,0,1-7.692,9.684,55.134,55.134,0,0,1-9.648,7.743,58.726,58.726,0,0,1-11.36,5.531,71.377,71.377,0,0,1-13.073,3.318A94.727,94.727,0,0,1,433.551,161.214Zm-271.422-1.369h0l-19.866,0-18.04-40.874h-87L19.409,159.844H0L71.7,0H90.654l71.474,159.844ZM80.607,19.867,44.756,102.072h72.158ZM337.458,159.845H320.332L320.1,26.717l-60.284,116.23h-10.5L188.574,26.717V159.844h-16.9V0h22.15L254.8,116.457,315.079,0h22.378V159.844Z"
-            transform="translate(250 419)" fill="#0e3f51"/>
+            transform="translate(250 419)" fill="#fff"/>
     </g>
 
   </symbol>
